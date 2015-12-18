@@ -1,2 +1,2 @@
 # opencv_tasks
-some tasks with opencv
+some opencv routins
